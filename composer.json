@@ -11,12 +11,12 @@
     ],
     "require": {
         "contao-components/ace": "~1.2",
-        "contao-components/chosen": "^1.0.5",
+        "contao-components/chosen": "dev-develop",
         "contao-components/colorbox": "~1.6",
         "contao-components/colorpicker": "^1.4.0.1",
         "contao-components/compass": "~0.12",
-        "contao-components/contao": "^4.2.3",
-        "contao-components/datepicker": "^2.2.0.1",
+        "contao-components/contao": "dev-develop",
+        "contao-components/datepicker": "dev-develop",
         "contao-components/dropzone": "~3.12",
         "contao-components/highlight": "~8.9",
         "contao-components/html5shiv": "~3.7.3",
@@ -26,12 +26,12 @@
         "contao-components/mediaelement": "~2.18",
         "contao-components/mootools": "^1.5.2",
         "contao-components/respimage": "~1.4",
-        "contao-components/simplemodal": "^1.2.1",
-        "contao-components/stylect": "^3.4.4",
+        "contao-components/simplemodal": "dev-develop",
+        "contao-components/stylect": "dev-develop",
         "contao-components/swipe": "^2.0.3",
-        "contao-components/tablesort": "^3.4.3",
-        "contao-components/tablesorter": "^2.0.5.1",
-        "contao-components/tinymce4": "~4.2"
+        "contao-components/tablesort": "dev-develop",
+        "contao-components/tablesorter": "dev-develop",
+        "contao-components/tinymce4": "dev-develop"
     },
     "conflict": {
         "contao/core": "*"
