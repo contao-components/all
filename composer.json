@@ -27,7 +27,7 @@
         "contao-components/mootools": "^1.5.2",
         "contao-components/respimage": "~1.4",
         "contao-components/simplemodal": "^1.2.3",
-        "contao-components/stylect": "^3.4.6",
+        "contao-components/stylect": "~4.0",
         "contao-components/swipe": "^2.0.3",
         "contao-components/tablesort": "^3.4.5",
         "contao-components/tablesorter": "^2.0.5.3",
