@@ -23,7 +23,7 @@
         "contao-components/jquery": "^1.11.3",
         "contao-components/jquery-ui": "^1.11.4",
         "contao-components/mediabox": "~1.5",
-        "contao-components/mediaelement": "~2.18",
+        "contao-components/mediaelement": "^2.21.1",
         "contao-components/mootools": "^1.5.2",
         "contao-components/respimage": "~1.4",
         "contao-components/simplemodal": "^1.2.3",
